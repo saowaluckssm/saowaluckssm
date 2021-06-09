@@ -12,7 +12,7 @@ Hi there, 👋 I'm Saowaluck
 <!-- ∙ 💬 Ask me about ... -->
 • 📫 How to reach me: saowaluck.ssm@gmail.com
 
-• 😄 Pronouns: sao-wa-luck
+- 😄 Pronouns: sao-wa-luck
 <!-- ∙ ⚡ Fun fact: ... -->
 
 
