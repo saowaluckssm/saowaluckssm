@@ -4,7 +4,7 @@
 <!-- ✨ _special_ ✨ -->
 
 
-Hi there, 👋 I'm Saowalcu 
+Hi there, 👋 I'm Saowaluck
 <!-- ∙ 🔭 I’m currently working on ... -->
 ∙ 🌱 I’m currently learning: React, JavaScript
 <!-- ∙ 👯 I’m looking to collaborate on ... -->
