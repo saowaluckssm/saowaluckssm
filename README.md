@@ -4,7 +4,7 @@
 <!-- ✨ _special_ ✨ -->
 
 
-Hi there, 👋 I'm Saowaluck
+Hi there, 👋 I'm Saowaluck 
 <!--  🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning: React.js 
 - 👯 I’m looking to collaborate on: Front-end and JavaScript project
